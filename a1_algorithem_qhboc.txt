@@ -1,0 +1,15 @@
+Algorithm for Assignment 1 - first iteration
+
+1. The usage() function will check how many arguments user type in. If the number of arguments is diffrent than 3 or 4, it will output the properly usage of the script.
+
+2. The dbda() function will take a date in "YYYYMMDD" format and a positive or negative integer. The function will calculate the days need to add or subtract and return the date.
+
+3. The days_in_mon() function will take given year and calculate the maximum days of each month. It will return the dictionary which contains all the months with its maximum days.
+
+4. The leap_year() function will take a year in "YYYY" format, and return True if the given year is a leap year, otherwise return False.
+
+5. The valid_date() function will take a date in "YYYYMMDD" format, and return True if the given date is a valid date, otherwise return False.
+
+6. The after() function will take a date in "YYYYMMDD" format and return the date of the next day in the same format.
+
+7. The before() function will take a date in "YYYYMMDD" format and return the date of the previous day in the same format.
